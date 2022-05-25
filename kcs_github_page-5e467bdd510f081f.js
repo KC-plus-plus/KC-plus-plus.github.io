@@ -281,7 +281,7 @@ async function load(module, imports) {
 
 async function init(input) {
     if (typeof input === 'undefined') {
-        input = new URL('kcs_github_page-a5d4a8ad6b3b5605_bg.wasm', import.meta.url);
+        input = new URL('kcs_github_page-5e467bdd510f081f_bg.wasm', import.meta.url);
     }
     const imports = {};
     imports.wbg = {};
