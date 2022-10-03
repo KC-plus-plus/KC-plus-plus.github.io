@@ -1,5 +1,5 @@
 # KC's Github Page [WIP]
-shhhh, you don't see anything (Work in Progress)...
+This was a little project that I quickly lost interest in, the setup of it was the most interesting part to me, so I'll keep it public I suppose, but this is my "I am going to archive this now" note.
 
 I've never used github pages, github actions, any continuous integration, [yew](https://yew.rs/), [trunk](https://trunkrs.dev/), or anything wasm before, *and* I hardly know rust. But I managed to set this up. It might not be the best, but man am I proud of myself.
 
